@@ -1,2 +1,2 @@
 # KoFie
-Coffee Shop 
+Basic implementation of HTML and CSS with vanilla JS functionalities.
